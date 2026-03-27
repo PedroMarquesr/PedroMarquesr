@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro!
+# 👋 Olá, me chamo Pedro Marques!
 
 💻 Desenvolvedor Front-End em formação  
 📚 Estudando JavaScript, React  
