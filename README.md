@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Pedro Marques!
 
-💻 Desenvolvedor Front-End em formação  
+💻 Desenvolvedor Front-End.
 📚 Estudando JavaScript, React  
 🚀 Em transição de carreira  
 
