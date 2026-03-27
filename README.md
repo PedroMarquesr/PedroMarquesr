@@ -15,3 +15,4 @@
 ---
 
 ## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
