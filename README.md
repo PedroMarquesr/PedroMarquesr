@@ -2,7 +2,7 @@
  
 **Desenvolvedor Front-End · Freelancer · ADS @ Unisanta**
  
-📍 São Vicente, SP &nbsp;|&nbsp; 🟢 Disponível para CLT &nbsp;|&nbsp; 6+ anos em TI pública
+📍 São Vicente, SP &nbsp;|&nbsp; 🟢 Disponível para CLT &nbsp;|&nbsp; 🟢 Disponível contratação PJ &nbsp;|&nbsp; 6+ anos em TI pública
  
 ---
  
