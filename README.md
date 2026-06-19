@@ -23,14 +23,14 @@
  
 ## Projetos
  
-### [Licita-PE](https://github.com/pedro-marques/licita-pe)
+### [Licita-PE](https://licita-pe.vercel.app/)
 Plataforma de gestão de licitações públicas, construída com domínio de negócio de 6 anos na área hospitalar. Combina expertise real com desenvolvimento web moderno.
  
 `React` `Next.js` `Firebase`
  
 ---
  
-### [TrustWorks](https://github.com/pedro-marques/trustworks)
+### [TrustWorks](https://www.trustworks.io/pt)
 Projeto acadêmico desenvolvido em equipe com metodologia Scrum. Atuei como Scrum Master, coordenando sprints e entregas.
  
 `React` `Scrum`
